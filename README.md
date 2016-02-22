@@ -1,5 +1,5 @@
 # SKG Startups List
-A curated list of Startups Companies located in Thessaloniki
+A curated list of Startup Companies located in Thessaloniki
 
 ## The list
 * Goodvidio (http://goodvid.io)
