@@ -5,7 +5,6 @@ A curated list of Startup Companies located in Thessaloniki
 * Goodvidio (http://goodvid.io)
 * Collab.email (http://collab.email)
 * Netscan (http://netscan.co)
-* Book'n'bloom (http://booknbloom.com)
 * SchooX (https://www.schoox.com/)
 * Fieldscale (http://fieldscale.com/)
 * GeekBot (https://geekbot.io/)
